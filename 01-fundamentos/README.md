@@ -1,6 +1,6 @@
 Create README.md
 
-# 🇧🇷 Fundamentos de Engenharia de Software (Backend)
+# Português - Fundamentos de Engenharia de Software (Backend)
 
 Os fundamentos constituem a base teórica e prática indispensável para a formação de um desenvolvedor backend sólido. Antes do domínio de frameworks, linguagens específicas ou infraestrutura, é essencial compreender **como problemas computacionais são modelados, analisados e resolvidos de forma eficiente, correta e escalável**.
 
@@ -28,7 +28,7 @@ A depuração avançada envolve a capacidade de rastrear falhas, interpretar log
 
 Em conjunto, esses fundamentos fornecem a base intelectual necessária para compreender decisões arquiteturais, escrever código de alta qualidade e evoluir profissionalmente como engenheiro de software backend.
 
-# 🇺🇸 Software Engineering Fundamentals (Backend)
+# English - Software Engineering Fundamentals (Backend)
 
 Fundamentals form the essential theoretical and practical foundation for a solid backend software engineer. Before mastering frameworks, specific programming languages, or infrastructure, it is crucial to understand **how computational problems are modeled, analyzed, and solved efficiently, correctly, and at scale**.
 
